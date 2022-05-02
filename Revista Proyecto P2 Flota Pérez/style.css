@@ -1,0 +1,148 @@
+body {
+  text-align:justify;
+  width: 1000px;
+  margin: auto;
+}
+
+header,
+footer {
+  display: block;
+  background: #ccd5ae;
+  text-align: center;
+  font-family: sans-serif;
+  clear: both;
+}
+
+h1 {
+  color: cornflowerblue;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+h2 {
+  font-size: 30px;
+  color: #6c757d;
+  font-weight: bold;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: saddlebrown;
+}
+
+section {
+  width: 71%;
+  display: inline_block;
+  float: right;
+  margin: 1px;
+}
+
+article {
+  background: lightyellow;
+  padding: 15px;
+  margin: 9px;
+  background: #ccd5ae;
+  margin-bottom: 10px;
+  border: 0px solid lightyellow;
+}
+
+article footer {
+  padding: 2px;
+  margin: 10px;
+  color: black;
+  background: floralwhite;
+  font-family:'League Spartan', sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+aside {
+  width: 28%;
+  display: inline_block;
+  float: right;
+  background: #e9edc9;
+  text-align: center;
+  margin: 2px;
+}
+
+p {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: darkslategrey;
+  font-weight: lighter;
+  font-size: 15px;
+  padding: 5px;
+  margin: 10px;
+  background-color: #97a97c;
+}
+
+p2 {
+  font-family: 'Cairo', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  margin: 10px;
+  
+}
+
+a {
+  font-family: 'League Spartan', sans-serif;
+ font-size: 25px;
+  color: #283618;
+  padding: 5px;
+  display: block;
+}
+
+time {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 12px;
+  color: #495057;
+  padding: 20px;
+  font-style: italic;
+}
+
+
+.imagen1{
+  width: 200px;
+  height: 200px;
+}
+.imagen2 {
+  width: 510px;
+  height: 360px;
+}
+
+.imagen3 {
+  width: 190px;
+  height: 320px;
+}
+
+.imagen4 {
+  width: 200px;
+  height: 320px;
+}
+
+figure {
+  padding: 15px;
+  margin: 10px;
+}
+
+.menu {
+  font-size: medium;
+  font-family: sans-serif;
+  color: cornflowerblue;
+  background: #e9edc9;
+
+}
+
+.menu li {
+  padding: 1px;
+  margin: 10px;
+  display: inline-block;
+  align-items: center;
+}
